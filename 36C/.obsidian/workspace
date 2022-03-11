@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "b470497142cc757b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff78eb8abcc75dde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Rehasing.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "144afffea675edac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Rehasing.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "def71e6e021a093b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Collison Resolution.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "cfd928f8f111b246",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Open Addressing.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "c921a82a42f1026e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/flow network.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "d53602de207fbf1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Quadratic Probing.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "c7c0416994948f63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Linear Probing.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "1d6fe2a890e22333",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Seperate Chaining.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23a602dc4d0eeddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "09cf7a62fc97b1da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697aee09a0ca576d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "826ed45656729f98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c91a86afe3d817bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d605634d7dd32ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "925bb3de7ed6ce32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting Notes/Rehasing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "06c521ca1c00eb1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff78eb8abcc75dde",
+  "lastOpenFiles": [
+    "Fleeting Notes/Rehasing.md",
+    "Fleeting Notes/Operation Comparison.md",
+    "Load Factor.md",
+    "Fleeting Notes/Seperate Chaining.md",
+    "Reading week 10.md",
+    "Fleeting Notes/Hash Table.md",
+    "Fleeting Notes/Untitled.md",
+    "Fleeting Notes/Linear Probing.md",
+    "Fleeting Notes/Quadratic Probing.md",
+    "Fleeting Notes/flow network.md"
+  ]
+}

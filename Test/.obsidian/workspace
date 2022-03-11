@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "65998a4aa5e44c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3464eaf642c595f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nut 10V/Last Lecture.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb10715cb4171cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83f2ea8a1b4b58e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c752091e9c7a0c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4f778e421beba27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "454554448882d853",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f37052ea5c2b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f295a0c9a1671b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nut 10V/Last Lecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c3464eaf642c595f",
+  "lastOpenFiles": [
+    "Nut 10V/Last Lecture.md",
+    "Fleeting Notes/Lecture 24 21c.md",
+    "Fleeting Notes/Davis and Chacon - Militarizing the border.md",
+    "Fleeting Notes/Mat21c Last Lecture.md",
+    "Literature Notes/Davis and Chacon.md",
+    "Fleeting Notes/Pasted image 20220307152350.png",
+    "Templates/Map Of Content.md",
+    "Templates/Note Template.md",
+    "First Note.md"
+  ]
+}
