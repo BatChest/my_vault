@@ -13,7 +13,7 @@ Update parent's parnet
 * Update node that becomes unbalanced; rebalancing occurs
 
 ```ad-example
-![[Screenshots](/Screenshots/Pasted image 20220306132637.png)
+![Screenshots](/Screenshots/Pasted image 20220306132637.png)
 
 ```
 How about one if we adjust's parent's balance factor to zero, not adjusting ancestors.
